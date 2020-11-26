@@ -1,0 +1,6 @@
+✅ Learn how to build the FULL Amazon website with FULL E-Commerce Functionality 👇
+    1️⃣ Accounts and Login Page 👨‍👨‍👧‍👦 - JWT Authentication
+    2️⃣ Products Page 📦
+    3️⃣ Cart and Checkout Page  🛒
+    4️⃣ Real Payments 💳 - Stripe Checkout
+    5️⃣ Order History Page 📖
